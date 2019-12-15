@@ -16,3 +16,8 @@ h1,h3
 {
     color: #66BFBF;
 }
+h3 a
+{
+	color: blue;
+	text-decoration: underline;
+}
