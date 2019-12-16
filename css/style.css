@@ -1,23 +1,24 @@
-body 
+body
 {
-  background-color: #EAF6F6;
+    margin:  0 auto;
 }
-hr
+h1
 {
-  background-color: #ffffff;
-  display: block;
-  border-style: none;
-  border-top: dotted;
-  border-color: grey;
-  border-width: 4px;
-  width: 5%;
+    margin: 0;
 }
-h1,h3
+.top-container
 {
-    color: #66BFBF;
+    background-color: #E4F9F5;
 }
-h3 a
+.middle-container
 {
-	color: blue;
-	text-decoration: underline;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.bottom-container
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
 }
