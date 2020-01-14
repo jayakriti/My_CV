@@ -1,0 +1,50 @@
+@media only screen and (min-width:1024px) and (max-width:1440px)
+{
+    html
+    {
+        font-size: 14px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:1023px)
+{
+    html
+    {
+        font-size: 14px;
+    }
+    .customcontainer
+    {
+        width: 90%;
+    }
+    .pos1 {
+        right: 10.63rem;
+        top: 10.5rem;
+    }
+}
+@media only screen and (min-width:320px) and (max-width:767px)
+{
+    html
+    {
+        font-size: 12px;
+    }
+    .customcontainer
+    {
+        width: 90%;
+    }
+    .pos1 {
+        right: 2.63rem;
+        top: 8.5rem;
+    }   
+    .pos2 {
+        left: 2rem;
+        bottom: 13.5rem;
+    }
+    .sec1 h1
+    {
+        font-size: 4.75rem;
+    }
+    .sec1 h4
+    {
+        font-size: 1.25rem;
+        padding-bottom: 2rem;
+    }
+}
