@@ -9,10 +9,41 @@ body
     margin: 0 auto;
     width: 70%;
 }
+.font-gayatri
+{
+    font-family: 'Gayathri', sans-serif;
+}
+.font-monts
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.font-cursiv
+{
+    font-family: 'Dancing Script', cursive;
+}
 .bg-ltgreen
 {
     background-color: #E4F9F5;
 }
+.img-roundbg
+{
+    background-color: #F3F2F1;
+    border-radius: 100%;
+}
+.txt-green
+{
+    color: #39A488;
+}
+.txt-grey
+{
+    color: #545454;
+}
+.font19
+{
+    font-size: 1.35rem;
+    line-height: 1.75rem;
+}
+
 
 
 /* **********NAVBAR start********** */
@@ -83,3 +114,7 @@ body
     font-size: 1.5rem;
 }
 /* **********SECTION1 end********** */
+
+/* **********SECTION2 end********** */
+
+/* **********SECTION2 end********** */
