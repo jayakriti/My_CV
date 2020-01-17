@@ -2,7 +2,7 @@ body
 {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
-    text-align: center;
+    /* text-align: center; */
 }
 .customcontainer
 {
@@ -46,7 +46,7 @@ body
 .font48
 {
     font-size: 3rem;
-    line-height: 1.75rem;
+    line-height: 3.75rem;
 }
 
 
@@ -120,6 +120,27 @@ body
 }
 /* **********SECTION1 end********** */
 
-/* **********SECTION2 end********** */
-
-/* **********SECTION2 end********** */
+/* **********Footer start********** */
+footer ul
+{
+    list-style-type: none;
+    padding-left: 0;
+}
+footer ul li
+{
+    display: inline-block;
+}
+footer ul li a
+{
+    margin: 3rem;
+    text-align: center;
+    color: #39A488;
+    font-weight: bold;
+    text-decoration: none;
+}
+footer ul li a:hover
+{
+    color: #000000;
+    text-decoration: underline;
+}
+/* **********Footer end********** */

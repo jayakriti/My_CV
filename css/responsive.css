@@ -47,4 +47,8 @@
         font-size: 1.25rem;
         padding-bottom: 2rem;
     }
+    footer ul li a
+    {
+        margin: 1.25rem;
+    }
 }
