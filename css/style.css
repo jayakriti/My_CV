@@ -21,9 +21,21 @@ body
 {
     font-family: 'Dancing Script', cursive;
 }
+.font-robo
+{
+    font-family: 'Roboto', sans-serif;
+}
 .bg-ltgreen
 {
     background-color: #E4F9F5;
+}
+.bg-green
+{
+    background-color: #679895;
+}
+.bg-pink
+{
+    background-color: #F76160;
 }
 .img-roundbg
 {
@@ -41,12 +53,37 @@ body
 .font19
 {
     font-size: 1.35rem;
-    line-height: 1.75rem;
+    line-height: 2rem;
 }
 .font48
 {
     font-size: 3rem;
     line-height: 3.75rem;
+}
+hr.custom_hr
+{
+    border: 0;
+    border-top: 10px dotted #39A488;
+    width: 30%;
+    margin: 3rem auto;
+}
+a.link-style
+{
+    color: #39A488;
+    text-decoration: underline;
+}
+.pad-bot4
+{
+    padding-bottom: 1.5rem;
+}
+.pad-tb5
+{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.mar-top5
+{
+    margin-top: 3rem;
 }
 
 
@@ -88,6 +125,8 @@ body
     color: #39A488;
 }
 /* **********NAVBAR end********** */
+
+/* *************************************HOME PAGE start************************************* */
 /* **********SECTION1 start********** */
 .sec1
 {
@@ -119,6 +158,39 @@ body
     font-size: 1.5rem;
 }
 /* **********SECTION1 end********** */
+
+/* *************************************HOME PAGE end************************************* */
+
+/* *************************************SAMPLE PAGE start************************************* */
+/* **********SECTION2 end********** */
+.sec-sample2 .roundbox
+{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+.btn-custom
+{
+    background-color: #374760;
+    padding: 1.15rem;
+    font-size: 1.15rem;
+    color: #ffffff;
+    letter-spacing: 0.75px;
+    border: none;
+    border-radius: 5px;
+}
+.btn-custom a
+{
+    color: #ffffff;
+}
+.btn-custom a:hover
+{
+    text-decoration: none;
+    color: #ffffff;
+}
+/* **********SECTION2 end********** */
+/* *************************************SAMPLE PAGE end************************************* */
+
 
 /* **********Footer start********** */
 footer ul

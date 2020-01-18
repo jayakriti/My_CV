@@ -47,6 +47,40 @@
         font-size: 1.25rem;
         padding-bottom: 2rem;
     }
+    .font48 {
+        font-size: 2.5rem;
+        line-height: 3rem;
+    }
+    .pad-bot4 {
+        padding-bottom: 0.25rem;
+    }
+    .pad-tb5 {
+        padding-top: 1.5rem;
+        padding-bottom: 1rem;
+    }
+    .mar-top5
+    {
+        margin-top: 0rem;
+    }
+    .mar-top1
+    {
+        margin-top: 1rem;
+    }
+    .font19 {
+        font-size: 1.25rem;
+        line-height: 2rem;
+    }
+    .sec2 img
+    {
+        width: 50%;
+        height: auto;
+    }
+    hr.custom_hr {
+        border: 0;
+        border-top: 6px dotted #39A488;
+        width: 50%;
+        margin: 0rem auto;
+    }
     footer ul li a
     {
         margin: 1.25rem;
